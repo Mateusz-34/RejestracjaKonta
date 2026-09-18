@@ -101,7 +101,6 @@
         android:layout_height="wrap_content"
         android:text="ZAREJESTRUJ"
         android:layout_gravity="center"
-        android:backgroundTint="#3F51B5"
         android:layout_marginTop="30dp" />
 
 </LinearLayout>
